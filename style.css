@@ -296,6 +296,7 @@ h3 {
 .scroll-down {
   position: absolute;
   bottom: var(--m-2-5);
+  padding-top: 10px;
   left: 0;
   width: 100%;
 }
